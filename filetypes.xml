@@ -12,7 +12,6 @@
       <mapping ext="workflow" type="Markdown" />
       <mapping pattern=":id" type="PLAIN_TEXT" />
       <mapping pattern="account.js" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping pattern="sdfjsdf" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <mapping pattern="token" type="PLAIN_TEXT" />
       <mapping pattern="stuff12123" type="PLAIN_TEXT" />
       <mapping pattern="delete:删除巡检责任区" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="person" type="PLAIN_TEXT" />
       <mapping pattern="id" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
