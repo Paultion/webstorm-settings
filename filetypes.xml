@@ -10,14 +10,15 @@
       <mapping pattern="user" type="Less" />
       <mapping ext="api" type="Markdown" />
       <mapping ext="workflow" type="Markdown" />
-      <mapping pattern="Electron" type="PLAIN_TEXT" />
       <mapping pattern=".uri" type="PLAIN_TEXT" />
       <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
       <mapping pattern="ossconfig_uri_for_development" type="PLAIN_TEXT" />
       <mapping pattern="oss-config-keys" type="PLAIN_TEXT" />
+      <mapping pattern="Electron" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="SourceMap" />
