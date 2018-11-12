@@ -8,6 +8,8 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="html___jb_bak___" type="HTML" />
       <mapping pattern="user" type="Less" />
+      <mapping ext="api" type="Markdown" />
+      <mapping ext="workflow" type="Markdown" />
       <mapping pattern="ossconfig_uri_for_development" type="PLAIN_TEXT" />
       <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
       <mapping pattern="oss-config-keys" type="PLAIN_TEXT" />
@@ -19,8 +21,6 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="SourceMap" />
       <mapping pattern="age-group" type="XHTML" />
-      <mapping ext="api" type="Markdown" />
-      <mapping ext="workflow" type="Markdown" />
     </extensionMap>
   </component>
 </application>
