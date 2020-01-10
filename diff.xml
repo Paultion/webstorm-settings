@@ -9,16 +9,7 @@
       <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
-      <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="DirDiff">
-        <PlaceSettings />
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
+      <entry key="VcsLogView">
         <PlaceSettings />
       </entry>
     </option>
