@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".webpackrc" type="PLAIN_TEXT" />
       <mapping ext="gzip" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
     </extensionMap>
